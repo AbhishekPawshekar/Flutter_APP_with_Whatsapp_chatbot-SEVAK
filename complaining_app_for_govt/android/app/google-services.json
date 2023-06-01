@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926289760818",
+    "project_id": "sevak-866fb",
+    "storage_bucket": "sevak-866fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926289760818:android:7804c5bb2cc8a1eb1fe22b",
+        "android_client_info": {
+          "package_name": "com.example.complaining_app_for_govt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926289760818-nk893ti08ehm75cosvu1bg2hqdur75bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXl4nGVk3TsaXD2G1iIADWzgFFDahhGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926289760818-nk893ti08ehm75cosvu1bg2hqdur75bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
